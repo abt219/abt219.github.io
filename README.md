@@ -6,4 +6,4 @@
 <p><img src="https://pbs.twimg.com/profile_images/1074800912332394502/-akRd4Ew_400x400.jpg" alt="This is me" /></p>
 <a href="https://www.linkedin.com/in/ashleigh-thurston">Click here to learn more about me</a>
 
-Here is a picture of my dog... <p><img src="https://www.instagram.com/p/Bp2UouJFqr5/" alt="Paddington"/></p>
+//Here is a picture of my dog... <p><img src="" alt="Paddington"/></p>//

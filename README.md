@@ -5,6 +5,10 @@
 <p><img src="https://pbs.twimg.com/profile_images/1074800912332394502/-akRd4Ew_400x400.jpg" alt="This is me" /></p>
 <strong><i><a href="https://www.linkedin.com/in/ashleigh-thurston">Click here to learn more about me</a></i></strong>
 
+
+<strong><i><a href=""https://www.lehighbakerinstitute.com/ashleighthurston"">Click here to learn about my entrepreneural journey and startup experience</a></i></strong>
+
+
 <p><p>Below are some of the data visualizations I have created using Datawrapper<p></p>
 <p></p>
 <p>

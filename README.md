@@ -12,12 +12,12 @@
 <iframe title="Chart: 2017 Lehigh University Undergraduate Enrollment" aria-describedby="This pie chart shows the percentages of undergraduate enrollment in the six colleges at Lehigh University in 2017.The College of Arts and Sciences had the largest enrollment of among all." id="datawrapper-chart-2bVVc" src="//datawrapper.dwcdn.net/2bVVc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="621"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 </p>
 
-<hr></hr>
+<hr>
 
 <p>
 <iframe title="Chart: 2017 Lehigh University Undergraduate Enrollment Student Origin" aria-describedby="This bar chart represents where Lehigh University's  undergraduate students who were enrolled in 2017 are from. The majority of Lehigh University's undergraduate class of 2017 are NY/NJ residents." id="datawrapper-chart-X2bIf" src="//datawrapper.dwcdn.net/X2bIf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="263"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
   </p>
   
-<hr></hr>
+<hr>
   
   <p><iframe title="Chart:  College Enrollment at Lehigh University 2007-2017" aria-describedby="This line chart displays the percentages of students in each of Lehigh's three undergraduate colleges from 2007 to 2017.  " id="datawrapper-chart-z2Zuu" src="//datawrapper.dwcdn.net/z2Zuu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script></p>

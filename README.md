@@ -1,7 +1,7 @@
 # abt219.github.io
 <p><strong><h1>Bio</h1></strong><p>
   
-<p>My name is Ashleigh Brielle Thurston, I am a student-athlete at Lehigh University that studies psychology, marketing and entrepreneurship and runs cross country and track and field. I enjoy studying personality, development, behaviorial patterns and changes and creativity techniques. I enjoy coffee, traveling, being outside and I have a malshi puppy named Paddington.</p>
+<p>My name is Ashleigh Brielle Thurston, I am a student-athlete at Lehigh University that studies psychology, marketing and entrepreneurship and runs cross country and track and field. I enjoy studying personality, development, behaviorial patterns and changes as well as creativity techniques. I enjoy coffee, traveling, being outside and I have a malshi puppy named Paddington.</p>
 <p><img src="https://pbs.twimg.com/profile_images/1074800912332394502/-akRd4Ew_400x400.jpg" alt="This is me" /></p>
 <strong><i><a href="https://www.linkedin.com/in/ashleigh-thurston">Click here to learn more about me</a></i></strong>
 
@@ -29,6 +29,8 @@
 
 <iframe title="Chart: College Students On Sharing News " aria-describedby="This data visualization uses data from one of the largest and most comprehensive research efforts exploring how U.S. college-age students are accessing, consuming, and engaging with news in the digital era. This bar chart displays college student's responses regarding why they might share news online.Across all categories for sharing, an overwhelming majority stated that they do not share or retweet news items at all." id="datawrapper-chart-WynDT" src="//datawrapper.dwcdn.net/WynDT/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="574"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
 
+
+<p><p> Below is a 360 tour I created using Google Tour Creator<p></p>
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/7xARYi9jZNj/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 

@@ -34,3 +34,6 @@
 
 <iframe width="100%" height="480px" src="https://poly.google.com/view/7xARYi9jZNj/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
+<p></p> The chart below was made by using ParseHub to scrape data from an online source, and then using that data to create a chart using Datawrapper<p></p>
+
+<iframe title="Chart: The 10 Most Popular Daily Newspapers in the US" aria-describedby="The USA Today, The New York Times, and the The Wall Street Journal occupy the top three spots of the most popular daily newspapers in the US." id="datawrapper-chart-OOJZK" src="//datawrapper.dwcdn.net/OOJZK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="371"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
